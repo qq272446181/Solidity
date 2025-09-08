@@ -1,0 +1,8 @@
+{"title": "Garlic bird",
+    "type": "object",
+    "properties": {
+        "name": {"type": "string","description": "Garlic bird NFT"},
+        "description": {"type": "string","description": " NFT 代表的是一只蒜鸟"},
+        "image": {"type": "string","description": "https://rose-genuine-jackal-864.mypinata.cloud/ipfs/bafybeig2aidjmoys52gotgtm4rdf3zg2ltnuurhuth5ospdvbfzdxv2bna"}
+    }
+}
